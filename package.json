@@ -1,0 +1,24 @@
+{
+  "name": "gazpromtask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "data.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VaniaGalimzianov/GazpromTask.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/VaniaGalimzianov/GazpromTask/issues"
+  },
+  "homepage": "https://github.com/VaniaGalimzianov/GazpromTask#readme",
+  "dependencies": {
+    "echarts": "^6.1.0"
+  }
+}
